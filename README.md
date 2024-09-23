@@ -1,5 +1,5 @@
 ```
-python manage.py startapp book_api
+python manage.py startapp book
 ```
 
 ```
