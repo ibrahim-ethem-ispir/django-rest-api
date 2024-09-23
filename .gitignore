@@ -1,0 +1,13 @@
+*__pycache__*
+*.pyc
+*.pyo
+*.so
+*.a
+*.o
+*.exe
+*.so
+*.so.1
+*.so.1.0
+*.so.1.0.0
+venv
+*.env
